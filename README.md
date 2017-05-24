@@ -1,1 +1,2 @@
 # SecondProject
+Life is beautiful
